@@ -1,52 +1,48 @@
 {
-  "toys": [
+  "books": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "id": "wsxN8cffp80C",
+      "title": "The Complete Idiot's Guide to Book Proposals and Query Letters",
+      "author": "Coleen O'Shea",
+      "description": "Tips for catching and holding an agent's attention. Essential reading for any fiction or nonfiction writer seeking publication, The Complete Idiot's Guide® to Book Proposals & Query Letters provides in-depth information on composing a successful query letter as well as detailed suggestions on how to craft each element of a book proposal - from author bio to marketing and competition information to a synopsis for fiction writers. By following the same guidelines an agent uses when submitting her client's book proposals to editors (and selling them), writers are given proven techniques for creating winning submissions. ?The most comprehensive information on query letters found in any book on writing ?The only book on book proposals that also targets a fiction audience ?Author is an agent who also blogs to a readership of about 1,500 daily",
+      "imageLinks": "http://books.google.com/books/content?id=wsxN8cffp80C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail":"http://books.google.com/books/content?id=wsxN8cffp80C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "id": "kFZjuQEACAAJ",
+      "title": "The Writer's Digest Guide To Query Letters",
+      "author": "Wendy Burt-Thomas",
+      "description":"Make That Crucial, Positive First Impression Anyone who's researched the marketplace knows: The path to publication begins with your query letter. If your query is weak, unfocused, or uninspired, an editor or agent won't even bother to request your article, novel manuscript, or nonfiction book proposal. But a well-crafted, compelling query sent to the right editor or agent is an essential sales tool for fiction writers and the most effective way for nonfiction writers to pre-sell your idea. In this book, professional freelance writer and magazine editor Wendy Burt-Thomas shares practical advice on how to craft persuasive letters that connect with editors and agents and ultimately generate sales for you. You'll learn how to: Conduct targeted research to find suitable editors and agents Hook an editor with a tantalizing lead and shape a summary that compels editors to buy Select the strongest slant for your book or article Use research and interview shortcuts that keep your query prep profitable Make your query rejection-proof by weeding out subtle mistakes that can sabotage your project Communicate your author platform and sell yourself as the best writer for the subject Complete with dozens of sample queries–some that landed article assignments, agents, or book deals, and others that never stood a chance–this book offers you a comprehensive strategy for presenting your writing ideas in a way that will increase your chances of publication. Though the title may lead some to believe it's strictly to be shelved as a reference manual, The Writer's Digest Guide to Query Letters is a smooth read from cover to cover.",
+      "imageLink":"http://books.google.com/books/content?id=kFZjuQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=kFZjuQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+     
     },
     {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "id":"3branTEOAEYC" ,
+      "title": "SQL Server Query Performance Tuning Distilled",
+      "authors":"Sajal Dam",
+      "description": "A completely revised edition of a book that is highly-regarded in the community (as evidenced by Amazon reviews and other customer feedback). * The only comprehensive, practical guide to performance optimization techniques for SQL Server applications. * Essential reading for any DBA or developer resposible for the eprformance of an exisiting SQL Server system, or the design of a new one.",
+      "imageLinks":"http://books.google.com/books/content?id=3branTEOAEYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=3branTEOAEYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+
     },
     {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "id": "HFFaAAAAMAAJ",
+      "title": "Coming Unbuttoned",
+      "authors": "James Broughton",
+      "description": "This witty and impudent confession is the work of a pioneer independent filmmaker whose adventures among the famous and the infamous extend from New York circles of the '30s to the avant-garde antics of San Francisco in the '60s and '70s. Born a gleeful poet in a solemn family, James Broughton survived military school, Stanford University, the merchant marine and journalism before his passion for cinema and his dedication to poetry crystallized in 1948 with his first book and the first of his many films. In the '50s he worked in London and Paris; and for many years he occupied a special place in the San Francisco Bay Area as a performer, playwrite and professor. In the course of his lively odyssey Broughton shares intimate memories of Anais Nin, Alan Watts, Robert Duncan, Maya Deren, Jean Cocteau, W.H. Auden, Pauline Kael, Kenneth Rexroth, Robinson Jeffers, and the poets of the Beat Generation. Broughton has turned eighty but his writing is as sassy and agile as a young Pan's.",
+      "imageLinks": "http://books.google.com/books/content?id=HFFaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=HFFaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     },
     {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
-    },
-    {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
-    },
-    {
-      "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "id": "KSfXDwAAQBAJ",
+      "title":"MySQL 8 Query Performance Tuning", 
+      "authors": "Jesper Wisborg Krogh",
+      "description": "Identify, analyze, and improve poorly performing queries that damage user experience and lead to lost revenue for your business. This book will help you make query tuning an integral part of your daily routine through a multi-step process that includes monitoring of execution times, identifying candidate queries for optimization, analyzing their current performance, and improving them to deliver results faster and with less overhead. Author Jesper Krogh systematically discusses each of these steps along with the data sources and the tools used to perform them. MySQL 8 Query Performance Tuning aims to help you improve query performance using a wide range of strategies. You will know how to analyze queries using both the traditional EXPLAIN command as well as the new EXPLAIN ANALYZE tool. You also will see how to use the Visual Explain feature to provide a visually-oriented view of an execution plan. Coverage of indexes includes indexing strategies and index statistics, and you will learn how histograms can be used to provide input on skewed data distributions that the optimizer can use to improve query performance. You will learn about locks, and how to investigate locking issues. And you will come away with an understanding of how the MySQL optimizer works, including the new hash join algorithm, and how to change the optimizer’s behavior when needed to deliver faster execution times. You will gain the tools and skills needed to delight application users and to squeeze the most value from corporate computing resources. What You Will Learn Monitor query performance to identify poor performers Choose queries to optimize that will provide the greatest gain Analyze queries using tools such as EXPLAIN ANALYZE and Visual Explain Improve slow queries through a wide range of strategies Properly deploy indexes and histograms to aid in creating fast execution plans Understand and analyze locks to resolve contention and increase throughput Who This Book Is For Database administrators and SQL developers who are familiar with MySQL and need to participate in query tuning. While some experience with MySQL is required, no prior knowledge of query performance tuning is needed.",
+      "imageLink": "http://books.google.com/books/content?id=KSfXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=KSfXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     }
+  
   ]
 }
+
